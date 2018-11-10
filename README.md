@@ -1,3 +1,16 @@
+# Simple ReactJS project.
+
+# CRUD application for a contact file.
+
+Note: No persistence added
+
+
+
+
+
+
+########################################################################################################
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
